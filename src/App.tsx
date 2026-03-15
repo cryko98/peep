@@ -37,7 +37,7 @@ function FloatingValue({ delay, x, y }: { delay: number; x: string; y: string; k
 
 export default function App() {
   const [copied, setCopied] = useState(false);
-  const ca = "xxxxxxxxxxxxxxxxxxxxxxxxxx";
+  const ca = "8HeSKdX9XkJB9PBZiXhFuTYaWbfn3u6sftyPbAcxpump";
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(ca);
@@ -182,7 +182,7 @@ export default function App() {
           className="flex items-center gap-6"
         >
           <a 
-            href="https://t.me/pepepumps" 
+            href="https://t.me/PepeEnjoysEndlessPump" 
             target="_blank" 
             rel="noopener noreferrer"
             className="group flex items-center gap-3 bg-neutral-900 border border-white/10 px-8 py-4 rounded-full hover:bg-white hover:text-black transition-all duration-300"
